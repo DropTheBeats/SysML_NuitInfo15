@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:css="http://www.eclipse.org/papyrus/infra/gmfdiag/css" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <css:ModelStyleSheets xmi:id="_uKQy4JoJEeW__6xGkI3kYA"/>
+  <notation:Diagram xmi:id="_dsduQJoKEeW__6xGkI3kYA" type="BlockDefinition" name="MSGU" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_dsduQZoKEeW__6xGkI3kYA"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_dsduQpoKEeW__6xGkI3kYA">
+      <owner xmi:type="uml:Model" href="urgence_res_sociaux.uml#_amXSQJoFEeW__6xGkI3kYA"/>
+    </styles>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_dtyj8JoKEeW__6xGkI3kYA" name="diagram_compatibility_version" stringValue="1.0.0"/>
+    <element xmi:type="uml:Model" href="urgence_res_sociaux.uml#_amXSQJoFEeW__6xGkI3kYA"/>
+  </notation:Diagram>
+</xmi:XMI>
